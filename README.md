@@ -25,7 +25,7 @@ I added support for a bunch of commands — some built-in, some passed to the sy
 It’s got enough to feel usable, but not overloaded with stuff.
 
 ### Things I might add later  
-- Piping (`|`) and redirection  
-- Command history (with arrow keys)  
-- Tab completion  
-- Maybe themes or aliases if I get fancy
+- [ ] Piping (`|`) and redirection  
+- [ ] Command history (with arrow keys)  
+- [X] Tab completion  
+- [x] Maybe themes or aliases if I get fancy
